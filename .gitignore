@@ -1,0 +1,22 @@
+# Arduino / Teensy / IDE
+.vscode/
+.idea/
+*.hex
+*.elf
+*.bin
+build/
+.pio/
+.pioenvs/
+.clangd/
+compile_commands.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Local env (none required for this firmware today)
+.env
+.env.*
